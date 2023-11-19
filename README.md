@@ -11,6 +11,11 @@ Veri seti belirli bir ürün grubuna ait yapılan yorumları, yorum başlığın
 
 
 Star:	Ürüne verilen yıldız sayısı
+
 HelpFul:	Yorumu faydalı bulan kişi sayısı
+
 Title:	Yorum içeriğine verilen başlık, kısa yorum
+
 Review:	Ürüne yapılan yorum
+
+Veri seti gizli tutulmuştur. *

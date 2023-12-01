@@ -1,21 +1,20 @@
 İş Problemi
 ![kozmosp](https://github.com/ugurst/Kozmos_Amazon_Sentiment_Analysis/assets/115634202/432054bd-6182-4877-b759-642bb3133969)
 
-Amazon üzerinden satışlarını gerçekleştiren ev tekstili ve günlük giyim odaklı üretimler yapan Kozmos, ürünlerine gelen yorumları analiz ederek ve aldığı şikayetlere göre özelliklerini geliştirerek satışlarını artırmayı hedeflemektedir. Bu hedef doğrultusunda yorumlara duygu analizi yapılarak etiketlenmiştir ve
-etiketlenen veri ile sınıflandırma modeli oluşturulmuştur.
+Kozmos, which produces products focused on home textiles and daily wear and sells through Amazon, aims to increase its sales by analyzing the comments on its products and improving its features according to the complaints it receives. In line with this goal, the comments were labeled by sentiment analysis and a classification model was created with the labeled data.
 
-Veri seti belirli bir ürün grubuna ait yapılan yorumları, yorum başlığını, yıldız sayısını ve yapılan yorumu kaç kişinin faydalı bulduğunu belirten değişkenlerden oluşmaktadır.
+The data set consists of variables indicating the comments made on a particular product group, the comment title, the number of stars, and how many people found the comment useful.
 
 
 	4 Değişken, 5611 Gözlem, 489 KB	
 
 
-Star:	Ürüne verilen yıldız sayısı
+Stars: Number of stars given to the product
 
-HelpFul:	Yorumu faydalı bulan kişi sayısı
+HelpFul: Number of people whose comments were helpful
 
-Title:	Yorum içeriğine verilen başlık, kısa yorum
+Title: Title given to the comment content, short comment
 
-Review:	Ürüne yapılan yorum
+Review: Comment on the product
 
-Veri seti gizli tutulmuştur. *
+The data set has been kept confidential. *
